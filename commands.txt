@@ -1,0 +1,1 @@
+git checkout commitid filename-->to get particular version of file
